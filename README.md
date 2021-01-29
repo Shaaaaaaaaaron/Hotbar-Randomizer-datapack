@@ -18,4 +18,5 @@ A challenge datapack for Minecraft that randomizes your hotbar.
 
 
 ## **Install**
+- Download the datapack [here](https://github.com/Shaaaaaaaaaron/Hotbar-Randomizer-datapack/releases)
 - Create a Minecraft world and click "Datapacks". Then, click the "Open datapack folder" button. Paste the .zip file there. Select it on Minecraft and click done.
