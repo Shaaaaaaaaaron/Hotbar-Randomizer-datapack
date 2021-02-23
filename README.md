@@ -2,6 +2,7 @@
 
 A challenge datapack for Minecraft that randomizes your hotbar.
 
+**[Download the datapack](https://github.com/Shaaaaaaaaaron/Hotbar-Randomizer-datapack/releases)**
 
 ## **About**
 - Every 10 seconds your hotbar will be rerolled with completely random items
@@ -15,9 +16,5 @@ A challenge datapack for Minecraft that randomizes your hotbar.
 - Blaze Rods, Blaze Powder, Ender Pearls and Ender Eyes don't get cleared from your inventory after a reroll
   - You also have four available slots to store **only** these four items
 - You can use your offhand and another slot on the left side of your inventory to save items
+- You can equip armor items without losing it
 - The rest of your inventory is **locked**
-
-
-## **Install**
-- [Download the datapack here](https://github.com/Shaaaaaaaaaron/Hotbar-Randomizer-datapack/releases)
-- Create a Minecraft world and click "Datapacks". Then, click the "Open datapack folder" button. Paste the .zip file there. Select it on Minecraft and click done.
