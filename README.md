@@ -4,6 +4,8 @@ A challenge datapack for Minecraft that randomizes your hotbar.
 
 **[Download the datapack](https://github.com/Shaaaaaaaaaron/Hotbar-Randomizer-datapack/releases)**
 
+[Planet Minecraft page](https://www.planetminecraft.com/data-pack/hotbar-randomizer/) (support is appreciated) <3
+
 ## **About**
 - Every 10 seconds your hotbar will be rerolled with completely random items
 - Items can get random enchantments
